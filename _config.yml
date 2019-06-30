@@ -25,6 +25,9 @@ exclude:
   - CNAME
   # - assets/sass
 
+include:
+  - _redirects
+
 # Plugin settings
 plugins:
   - jekyll-feed
